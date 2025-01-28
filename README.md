@@ -6,9 +6,8 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** specializing in **C
 
 ## 🔍 About Me
 
-- **Location:** Canoga Park, Los Angeles, CA, USA
-- **LinkedIn:** [linkedin.com/in/yashwanthpandi](https://linkedin.com/in/yashwanthpandi)
-- **Current Goal:** Pursuing opportunities in **Cybersecurity Engineering** and **Full-Stack Development**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yashwanthpandi)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:yashwanth.ydv@gmail.com)
 
 ---
 
@@ -42,50 +41,16 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** specializing in **C
 
 ---
 
-## 🎓 Education
-
-- **Master of Science in Information Technology**
-  - *California Lutheran University, November 2024*
-  - GPA: 3.6/4.0
-  - Relevant Courses: Information Security, Data Communication & Networking, Cloud Security
-
-- **Bachelor of Engineering in Electronics and Communication**
-  - *Andhra University, May 2021*
-  - GPA: 3.2/4.0
-  - Relevant Courses: Network Security, Software Engineering, Database Management Systems
-
----
-
 ## 🏆 Certifications
 
-- **CompTIA Security+** (2024)
-- **CISSP** (2024)
-- **AWS Certified Solutions Architect - Associate** (2023)
-- **CEH** (2023)
-- **CCNA** (2023)
-- **Microsoft Certified: Azure Fundamentals** (2023)
-- **Google Cybersecurity Professional Certificate** (2023)
-- **CCSP** (2023)
-
----
-
-## 💼 Professional Experience
-
-**Security Engineer Intern**  
-*TechSecure Solutions (Remote)* | December 2022 – February 2023  
-- Configured firewalls, VPNs, and Identity Services Engine (ISE) solutions to improve network security.  
-- Automated security configurations using Python and Terraform for efficient deployments.  
-- Conducted penetration testing and vulnerability assessments, providing actionable remediation plans.  
-
-**Technical Apprentice**  
-*Cisco Systems (Bangalore, India)* | November 2021 – November 2022  
-- Developed and maintained web applications using Angular and TypeScript.  
-- Integrated RESTful APIs for seamless data interaction and implemented robust development processes.  
-
-**Freelancer**  
-*Fiverr (Hyderabad, India)* | March 2020 – July 2021  
-- Built full-stack web applications using the MEAN stack with integrated security measures.  
-- Automated deployment pipelines with Docker and Git.  
+- **CompTIA Security+**  
+- **CISSP**  
+- **AWS Certified Solutions Architect - Associate**  
+- **CEH**  
+- **CCNA**  
+- **Microsoft Certified: Azure Fundamentals**  
+- **Google Cybersecurity Professional Certificate**  
+- **CCSP**
 
 ---
 
