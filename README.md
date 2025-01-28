@@ -73,14 +73,6 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** specializing in **C
 
 ---
 
-## 📈 GitHub Stats
-
-![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanthpandi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthpandi&layout=compact&theme=radical)
-
----
-
 ## 🧩 Projects
 
 ### [Threat Detection and Response Simulation](https://github.com/yashwanthpandi/threat-detection-response)
