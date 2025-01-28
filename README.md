@@ -13,16 +13,37 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** specializing in **C
 
 ## 🛠️ Technical Skills
 
-- **Programming & Automation:** Python, Java, C, Ansible, Terraform, Chef
-- **Cybersecurity Tools:** Wireshark, Metasploit, Nessus, Splunk, TCPdump, NMap
-- **Penetration Testing:** Kali Linux, Aircrack-ng, John the Ripper
-- **Networking:** TCP/IP, DNS, HTTP, OSI Model, Firewalls, Identity Services
-- **Frameworks & Technologies:** React, Angular, Node.js, Express.js, HTML5, CSS3
-- **Cloud Platforms & Security:** AWS, Azure, Prisma Cloud, AWS Security Hub, Azure Security Center
-- **Databases:** MSSQL, PostgreSQL, MongoDB
-- **Development Tools:** Git, Jenkins, Docker, Maven
-- **Security Frameworks:** NIST CSF, ISO 27001, MITRE ATT&CK, CIS Controls
-- **Project Management:** Agile, Scrum, Jira, Gantt Charts
+### **Programming & Automation**
+[![Python](https://img.shields.io/badge/-Python-yellow?logo=python)](https://www.python.org/)  
+[![Java](https://img.shields.io/badge/-Java-orange?logo=java)](https://www.java.com/)  
+[![C](https://img.shields.io/badge/-C-blue?logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))  
+[![Ansible](https://img.shields.io/badge/-Ansible-red?logo=ansible)](https://www.ansible.com/)  
+[![Terraform](https://img.shields.io/badge/-Terraform-purple?logo=terraform)](https://www.terraform.io/)  
+[![Chef](https://img.shields.io/badge/-Chef-lightgrey?logo=chef)](https://www.chef.io/)
+
+### **Cybersecurity Tools**
+[![Wireshark](https://img.shields.io/badge/-Wireshark-blue?logo=wireshark)](https://www.wireshark.org/)  
+[![Metasploit](https://img.shields.io/badge/-Metasploit-black?logo=metasploit)](https://www.metasploit.com/)  
+[![Splunk](https://img.shields.io/badge/-Splunk-purple?logo=splunk)](https://www.splunk.com/)  
+[![TCPdump](https://img.shields.io/badge/-TCPdump-green)](https://www.tcpdump.org/)  
+[![NMap](https://img.shields.io/badge/-NMap-lightblue)](https://nmap.org/)
+
+### **Frameworks & Technologies**
+[![React](https://img.shields.io/badge/-React-blue?logo=react)](https://reactjs.org/)  
+[![Angular](https://img.shields.io/badge/-Angular-red?logo=angular)](https://angular.io/)  
+[![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)](https://nodejs.org/)  
+[![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?logo=express)](https://expressjs.com/)  
+[![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### **Cloud Platforms**
+[![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws)](https://aws.amazon.com/)  
+[![Azure](https://img.shields.io/badge/-Azure-blue?logo=microsoft-azure)](https://azure.microsoft.com/)
+
+### **Project Management**
+[![Agile](https://img.shields.io/badge/-Agile-blue)](https://www.agilealliance.org/)  
+[![Scrum](https://img.shields.io/badge/-Scrum-lightgreen)](https://www.scrum.org/)  
+[![Jira](https://img.shields.io/badge/-Jira-blue?logo=jira)](https://www.atlassian.com/software/jira)
 
 ---
 
