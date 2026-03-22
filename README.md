@@ -34,28 +34,3 @@ Welcome to my GitHub profile! I specialize in building scalable data pipelines, 
 
 **Other Tools**  
 - Git | Docker | Kubernetes  
-
----
-
-## 📊 GitHub Stats
-![Yashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashwanthpandi&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthpandi&layout=compact&theme=radical)  
-
----
-
-## 📂 Featured Projects
-- 🏗️ **Data Pipeline Automation** – Built an end-to-end ETL workflow with Airflow + Spark  
-- 🤖 **ML Model Deployment** – Deployed ML models with FastAPI & Docker  
-- 📊 **Analytics Dashboard** – Designed a real-time dashboard with Kafka + Streamlit  
-
----
-
-## 📫 Connect with Me
-- 💼 LinkedIn: [linkedin.com/in/yashwanthpandi](#)  
-- 🐦 Twitter: [twitter.com/yourhandle](#)  
-- 📧 Email: **your.email@example.com**  
-
----
-
-⭐️ From [Yashwanth Pandi](https://github.com/yashwanthpandi)  
